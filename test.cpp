@@ -4,4 +4,5 @@ const double exp = 2.7;
 
 int main(){
 	cout << PI;
+	cout << exp;
 }
